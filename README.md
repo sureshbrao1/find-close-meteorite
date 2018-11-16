@@ -2,4 +2,7 @@
 Test repository
 
 # Running
-'python3 find_meteorite.py'
+'pipenv run python3 meteors/find_meteorite.py'
+
+pip3 install pipenv
+pipenv install requests
